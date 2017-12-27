@@ -1,21 +1,16 @@
----
-layout: post
-title: "Como migrar seus posts do Wordpress para o Jekyll de um jeito simples"
-date: 2017-07-29 13:24:49
-image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1501345962/wordpress-to-jekyll_mx4ddm.png'
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
-tags:
-- jekyll
-- wordpress
-- blog
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!-- ---
+layout: post /*Dont edit this*/
+title: ""Title"
+description:
+image: 'img url'
+category: 'blog' /*Dont edit this*/
+twitter_text:
+introduction:
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+The intro here
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> Quotation
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
@@ -123,10 +118,4 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
   </tbody>
 </table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-
+ -->
